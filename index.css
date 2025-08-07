@@ -1,0 +1,39 @@
+/* 
+CSS--->Cascading style sheet
+three types
+1--->INLINE CSS
+2---->Internal CSS
+3---->External CSS
+
+inline css---->ATTRUBUTE STYLE="PROPERTY1:VALUE;POPERTY2:VALUE2"
+
+internal css---->with in html page ---->
+<head>
+<style>
+    h1{
+    property1:value;
+    property2:value2;
+    }
+</style>
+</head>
+*/
+
+/* h1{
+            color: orangered; 
+            text-align: right;
+            background-color: green 
+            } */
+
+            #second{
+            color: orange;  
+            text-align: right;
+            }
+
+            .third{
+                color:blue;
+                background-color: aqua;
+            }
+
+            *{
+                color:aqua;
+            }
